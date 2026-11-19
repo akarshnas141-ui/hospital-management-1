@@ -9,4 +9,4 @@ Problem: Heart Disease
 Patient ID: P102
 Patient Name: Meena
 Age: 32
-Problem: Migraine
+Problem: Migrainee
